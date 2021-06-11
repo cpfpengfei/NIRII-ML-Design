@@ -1,0 +1,7 @@
+,Name,SMILES,Predicted Eg (eV)
+0,NDA_100,N#CC(C#N)=C1c2ccc(N(c3ccccc3)c3cccc4ccccc34)cc2C(=C(C#N)C#N)C2C=CC=CC12,2.4630334
+1,NDA_101,CC1(C)OC(=C(C#N)C#N)C(C#N)=C1N(c1ccccc1)c1cccc2ccccc12,2.8932939
+2,NDA_102,N#CC(C#N)=C1c2ccccc2-c2ccc(N(c3ccccc3)c3cccc4ccccc34)cc21,2.19539
+3,NDAD_801,N#CC(C#N)=c1cc(-c2ccc(N(c3ccccc3)c3ccccc3)s2)c(=C(C#N)C#N)cc1-c1ccc(N(c2ccccc2)c2ccccc2)s1,1.3456693
+4,NDAD_802,N#CC(C#N)=C1c2nc(-c3ccc(N(c4ccccc4)c4ccccc4)s3)ccc2-c2ccc(-c3ccc(N(c4ccccc4)c4ccccc4)s3)nc21,1.6286595
+5,NDAD_803,N#CC(C#N)=C1c2cc(-c3ccc(N(c4ccccc4)c4ccccc4)s3)ccc2-c2cc3c(cc21)-c1ccc(-c2ccc(N(c4ccccc4)c4ccccc4)s2)cc1C3=C(C#N)C#N,1.2586306
