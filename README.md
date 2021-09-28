@@ -1,5 +1,5 @@
 # NIR-II Design
-Prediction model used in the paper: Design of High-Performance Near-Infrared-II Molecular Fluorophores
+Prediction model used in the paper: Accelerated  Design  of  Near-Infrared-II  Molecular  Fluorophores  via First-Principle Understanding and Machine Learning.
 
 ## Prediction Demo and Data Availability
 - Access the [jupyter notebook](https://github.com/cpfpengfei/NIRII-ML-Design/blob/main/%5BDemo%5D%20Model%20Prediction.ipynb) to view the demo on HOMO LUMO energy gap predictions with our trained model.
